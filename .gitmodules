@@ -1,0 +1,3 @@
+[submodule "src/dgs"]
+	path = src/dgs
+	url = https://bitbucket.org/malb/dgs.git
